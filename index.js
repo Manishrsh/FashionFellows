@@ -18,7 +18,7 @@ app.use(cors({
 }));
 app.use(express.json());
 
-const uri = `{process.env.MONGO_URL}`;
+const uri = 'mongodb+srv://manishrs5235:z1vJjUxF4pOVBcIa@cluster0.mjowunr.mongodb.net/mydatabase?retryWrites=true&w=majority&appName=Cluster0';
 
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
