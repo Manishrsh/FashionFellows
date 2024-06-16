@@ -1,0 +1,18 @@
+2024/06/15-19:45:35.403 3928 Reusing MANIFEST E:\invoice\backend\sessions\session\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/15-19:45:35.469 3928 Recovering log #68
+2024/06/15-19:45:35.571 3928 Reusing old log E:\invoice\backend\sessions\session\Default\Local Storage\leveldb/000068.log 
+2024/06/15-19:47:51.288 70c Level-0 table #72: started
+2024/06/15-19:47:51.332 70c Level-0 table #72: 13437 bytes OK
+2024/06/15-19:47:51.375 70c Delete type=0 #68
+2024/06/15-19:47:51.378 70c Compacting 4@0 + 1@1 files
+2024/06/15-19:47:51.411 70c Generated table #73@0: 111 keys, 15872 bytes
+2024/06/15-19:47:51.411 70c Compacted 4@0 + 1@1 files => 15872 bytes
+2024/06/15-19:47:51.431 70c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/15-19:47:51.445 70c Delete type=2 #63
+2024/06/15-19:47:51.446 70c Delete type=2 #65
+2024/06/15-19:47:51.447 70c Delete type=2 #67
+2024/06/15-19:47:51.447 70c Delete type=2 #69
+2024/06/15-19:47:51.447 70c Delete type=2 #72
+2024/06/15-20:58:01.428 457c Level-0 table #75: started
+2024/06/15-20:58:01.504 457c Level-0 table #75: 16362 bytes OK
+2024/06/15-20:58:01.571 457c Delete type=0 #71
