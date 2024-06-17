@@ -14,7 +14,7 @@ const Iteam = require('./src/models/additeam');
 const app = express();
 
 app.use(cors({
-  origin: 'https://fashionfellows-3.onrender.com' // Replace with your frontend URL
+  origin: 'https://fashion-fellowsfront.vercel.app' // Replace with your frontend URL
 }));
 app.use(express.json());
 
